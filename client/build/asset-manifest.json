@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d41871f.css",
+    "main.js": "/static/js/main.c454f1a9.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/rm373batch2-04.jpg": "/static/media/rm373batch2-04.50c1c7dd2dcf2ddc8088.jpg",
+    "static/media/AjarJaggedClumber.mp4": "/static/media/AjarJaggedClumber.4d8bf2990751526f8881.mp4",
+    "static/media/design.jpg": "/static/media/design.4002b5698c87967ade26.jpg",
+    "static/media/123.png": "/static/media/123.145a111eb565b8abad84.png",
+    "static/media/5040007.jpg": "/static/media/5040007.dbc1d930b8bb5e76deab.jpg",
+    "static/media/4127298.jpg": "/static/media/4127298.76cc60c298d9d15599d4.jpg",
+    "static/media/owner.png": "/static/media/owner.550ac5c8cb3e6193a055.png",
+    "static/media/grantee.png": "/static/media/grantee.cfe16c40cc7ec6335531.png",
+    "static/media/university.png": "/static/media/university.b9264ad0ced1e77fab1b.png",
+    "index.html": "/index.html",
+    "main.4d41871f.css.map": "/static/css/main.4d41871f.css.map",
+    "main.c454f1a9.js.map": "/static/js/main.c454f1a9.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d41871f.css",
+    "static/js/main.c454f1a9.js"
+  ]
+}
